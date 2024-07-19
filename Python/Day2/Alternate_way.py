@@ -10,3 +10,4 @@ if(result):
     print("Binary String")
 else:
     print("Not binary string")
+
